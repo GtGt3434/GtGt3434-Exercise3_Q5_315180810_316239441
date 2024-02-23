@@ -1,9 +1,5 @@
 package Question5.Exercise3;
 
-/**
- * Hello world!
- *
- */
 public class App {
 	public static boolean checkOut(double cart, int creditRating, StatusClass.Status status) {
 		boolean approved = false;

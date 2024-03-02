@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Question5.Exercise3.TestSuite" time="0.068" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Question5.Exercise3.TestSuite" time="0.064" tests="9" errors="0" skipped="0" failures="0">
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -29,10 +29,10 @@
     <property name="user.variant" value=""/>
     <property name="stderr.encoding" value="UTF-8"/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Fadi\Eclipse WorkSpaces\Year3-semesterA\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf4442512454007786293.tmp"/>
+    <property name="classworlds.conf" value="C:\Users\Fadi\Eclipse WorkSpaces\Year3-semesterA\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1632753558863952413.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="stdout.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_202\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/Fadi/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin/server;C:/Users/Fadi/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Fadi\AppData\Local\Microsoft\WindowsApps;;C:\Users\Fadi\OneDrive\Desktop;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_202\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/Fadi/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin/server;C:/Users/Fadi/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143/jre/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Fadi\AppData\Local\Microsoft\WindowsApps;;C:\Users\Fadi\OneDrive\Desktop;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -62,16 +62,16 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="m2e.build.project.data.socket.port" value="54023"/>
+    <property name="m2e.build.project.data.socket.port" value="54091"/>
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
   <testcase name="Route1" classname="Question5.Exercise3.AppTest" time="0.004"/>
   <testcase name="Route2" classname="Question5.Exercise3.AppTest" time="0"/>
-  <testcase name="Route3" classname="Question5.Exercise3.AppTest" time="0.001"/>
+  <testcase name="Route3" classname="Question5.Exercise3.AppTest" time="0"/>
   <testcase name="Route4" classname="Question5.Exercise3.AppTest" time="0"/>
   <testcase name="Route5" classname="Question5.Exercise3.AppTest" time="0"/>
-  <testcase name="Route6" classname="Question5.Exercise3.AppTest" time="0"/>
+  <testcase name="Route6" classname="Question5.Exercise3.AppTest" time="0.001"/>
   <testcase name="Route7" classname="Question5.Exercise3.AppTest" time="0"/>
   <testcase name="Route8" classname="Question5.Exercise3.AppTest" time="0"/>
   <testcase name="Route9" classname="Question5.Exercise3.AppTest" time="0"/>

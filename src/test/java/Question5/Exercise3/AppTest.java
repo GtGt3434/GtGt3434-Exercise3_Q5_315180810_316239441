@@ -6,7 +6,7 @@ import org.junit.Test;
 import Question5.Exercise3.StatusClass.Status;
 
 /**
- * Unit test for simple App. test
+ * Unit test for simple App . test
  */
 public class AppTest {
 
